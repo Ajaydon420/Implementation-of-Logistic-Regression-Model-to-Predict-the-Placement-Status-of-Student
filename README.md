@@ -77,14 +77,19 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![162564472-81a90133-0b37-47bf-a73c-69e7a9b3999a](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/883744b2-d7f6-41fb-871e-80b920e690d1)
 ![162564507-406e9354-e7a6-4307-a717-db5faddc978d](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/7f76e633-9a7a-440d-b465-fab254762a49)
 ![162564507-406e9354-e7a6-4307-a717-db5faddc978d](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/0f48d0bc-9a43-4ffd-9d30-39ba666923b5)
+
 Accuracy
 ![162564527-f6270eb9-ad64-4060-bb5e-b034e0850353](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/ea395d28-9c2b-4c50-b5cb-e2b8b52f1b4e)
+
 confusion
 ![162564542-354c7a5b-b487-43a9-a0df-8ddf396c6cac](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/3dd2cba5-f94d-4ade-b049-493d8d5f54f1)
+
 classification
 ![162564562-5532f058-aeac-4e96-825b-e6ea93b8fe03](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/77d986c5-0ef9-40b8-a3e6-4183c2f62b51)
+
 predict
 ![162564581-1a839c9c-f0f8-407a-b07e-306f3ca640d2](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/006f0dec-ce9f-471e-b604-b11dc0edb89c)
+
 ir predict
 ![162564592-c02bb4ae-fcf0-4bdb-a832-74e32cc99975](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/1c9601e0-bf9b-4cde-ad4f-9b22396720f8)
 
