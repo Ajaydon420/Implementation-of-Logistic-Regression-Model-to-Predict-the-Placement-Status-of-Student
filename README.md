@@ -75,6 +75,9 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 ![162564439-fd6cccd6-f686-4b03-9d5a-b77b3607d0d8](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/5e95979c-386d-440c-8e46-75f138fb13bf)
 ![162564472-81a90133-0b37-47bf-a73c-69e7a9b3999a](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/883744b2-d7f6-41fb-871e-80b920e690d1)
+![162564507-406e9354-e7a6-4307-a717-db5faddc978d](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/5519f975-3a05-460c-873b-9ab26717035b)
+![162564507-406e9354-e7a6-4307-a717-db5faddc978d](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/5c57ef18-1134-4322-9972-82254fee4c34)
+
 accuracy
 ![162564527-f6270eb9-ad64-4060-bb5e-b034e0850353](https://github.com/Ajaydon420/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/161410969/ea395d28-9c2b-4c50-b5cb-e2b8b52f1b4e)
 
